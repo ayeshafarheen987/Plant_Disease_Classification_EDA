@@ -1,12 +1,12 @@
 streamlit
-opencv-python-headless
+opencv-python
 pandas
+numpy
 matplotlib
 plotly
 scikit-learn
+webcolors
 mahotas
 torch
 torchvision
-tensorflow
 Pillow
-
