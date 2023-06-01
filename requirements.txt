@@ -5,8 +5,8 @@ numpy
 matplotlib
 plotly
 scikit-learn
-webcolors
+
 mahotas
 torch
 torchvision
-Pillow
+
