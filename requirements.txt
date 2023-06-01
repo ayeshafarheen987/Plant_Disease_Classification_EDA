@@ -11,5 +11,7 @@ mahotas
 torch
 torchvision
 webcolors==1.11.1
+tensorflow==2.7.0
+
 
 
