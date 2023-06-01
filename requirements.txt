@@ -10,4 +10,6 @@ scikit-learn
 mahotas
 torch
 torchvision
+webcolors==1.11.1
+
 
