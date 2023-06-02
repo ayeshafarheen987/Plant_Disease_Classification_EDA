@@ -56,8 +56,7 @@ class_folders = sorted(os.listdir(dataset_path))
 
 
 # Sidebar menu options
-sidebar_options = ["Image Visualization","Object Detection/Segmentation","Deep Learning Feature Extraction","Color Analysis", "Texture Analysis",
-                   ,"Image Statistics","Class Distribution"]
+sidebar_options = ["Image Visualization","Object Detection/Segmentation","Deep Learning Feature Extraction","Color Analysis", "Texture Analysis", "Image Statistics","Class Distribution"]
 
 # Create sidebar
 selected_option = st.sidebar.selectbox("Select EDA Task", sidebar_options)
